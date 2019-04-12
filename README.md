@@ -1,1 +1,1 @@
-# ActionRecogntionProject
+# ActionRecognitionProject
