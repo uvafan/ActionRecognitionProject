@@ -1,4 +1,10 @@
-in-epoch 0. Iteration 00100, Avg-Loss: 2.3934, Accuracy: 0.0800
+LR: 5e-4
+Cats: 10
+Epochs: 10
+Model: Pretrained resnet 18 with grad, averaging frames
+SGD Params: Momentum 0.5, weight decay 1e-4
+
+Train-epoch 0. Iteration 00100, Avg-Loss: 2.3934, Accuracy: 0.0800
 Train-epoch 0. Iteration 00200, Avg-Loss: 2.3969, Accuracy: 0.0750
 Train-epoch 0. Iteration 00300, Avg-Loss: 2.4068, Accuracy: 0.0733
 Train-epoch 0. Iteration 00400, Avg-Loss: 2.4065, Accuracy: 0.0875
