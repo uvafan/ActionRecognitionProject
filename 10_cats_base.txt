@@ -1,0 +1,59 @@
+Data: 10 non-consecutive frames, equally separated throughout video
+Categories: 10
+Model: Average
+Batch Size: 20
+Learning Rate: 0.0005
+Momentum: 0.5
+Weight Decay: 0.0001
+training...
+Train-epoch 0. Iteration 00045, Avg-Loss: 2.2150, Accuracy: 0.2211
+Validation-epoch 0. Iteration 00019, Avg-Loss: 1.9624, Accuracy: 0.4237
+Train-epoch 1. Iteration 00045, Avg-Loss: 1.7928, Accuracy: 0.5367
+Validation-epoch 1. Iteration 00019, Avg-Loss: 1.6533, Accuracy: 0.6211
+Train-epoch 2. Iteration 00045, Avg-Loss: 1.4911, Accuracy: 0.7356
+Validation-epoch 2. Iteration 00019, Avg-Loss: 1.3916, Accuracy: 0.7368
+Train-epoch 3. Iteration 00045, Avg-Loss: 1.2424, Accuracy: 0.8622
+Validation-epoch 3. Iteration 00019, Avg-Loss: 1.1816, Accuracy: 0.7974
+Train-epoch 4. Iteration 00045, Avg-Loss: 1.0078, Accuracy: 0.9322
+Validation-epoch 4. Iteration 00019, Avg-Loss: 1.0168, Accuracy: 0.8289
+Train-epoch 5. Iteration 00045, Avg-Loss: 0.8495, Accuracy: 0.9400
+Validation-epoch 5. Iteration 00019, Avg-Loss: 0.8840, Accuracy: 0.8316
+Train-epoch 6. Iteration 00045, Avg-Loss: 0.7490, Accuracy: 0.9522
+Validation-epoch 6. Iteration 00019, Avg-Loss: 0.7939, Accuracy: 0.8395
+Train-epoch 7. Iteration 00045, Avg-Loss: 0.6341, Accuracy: 0.9633
+Validation-epoch 7. Iteration 00019, Avg-Loss: 0.7190, Accuracy: 0.8447
+Train-epoch 8. Iteration 00045, Avg-Loss: 0.5431, Accuracy: 0.9711
+Validation-epoch 8. Iteration 00019, Avg-Loss: 0.6567, Accuracy: 0.8632
+Train-epoch 9. Iteration 00045, Avg-Loss: 0.4945, Accuracy: 0.9711
+Validation-epoch 9. Iteration 00019, Avg-Loss: 0.5935, Accuracy: 0.9026
+Train-epoch 10. Iteration 00045, Avg-Loss: 0.4513, Accuracy: 0.9733
+Validation-epoch 10. Iteration 00019, Avg-Loss: 0.5769, Accuracy: 0.8895
+Train-epoch 11. Iteration 00045, Avg-Loss: 0.3974, Accuracy: 0.9822
+Validation-epoch 11. Iteration 00019, Avg-Loss: 0.5300, Accuracy: 0.8737
+Train-epoch 12. Iteration 00045, Avg-Loss: 0.3449, Accuracy: 0.9833
+Validation-epoch 12. Iteration 00019, Avg-Loss: 0.5210, Accuracy: 0.8868
+Train-epoch 13. Iteration 00045, Avg-Loss: 0.3131, Accuracy: 0.9856
+Validation-epoch 13. Iteration 00019, Avg-Loss: 0.4721, Accuracy: 0.8842
+Train-epoch 14. Iteration 00045, Avg-Loss: 0.2890, Accuracy: 0.9856
+Validation-epoch 14. Iteration 00019, Avg-Loss: 0.4713, Accuracy: 0.8895
+Train-epoch 15. Iteration 00045, Avg-Loss: 0.2591, Accuracy: 0.9944
+Validation-epoch 15. Iteration 00019, Avg-Loss: 0.4308, Accuracy: 0.8816
+Train-epoch 16. Iteration 00045, Avg-Loss: 0.2421, Accuracy: 0.9922
+Validation-epoch 16. Iteration 00019, Avg-Loss: 0.4119, Accuracy: 0.9079
+Train-epoch 17. Iteration 00045, Avg-Loss: 0.2252, Accuracy: 0.9911
+Validation-epoch 17. Iteration 00019, Avg-Loss: 0.4211, Accuracy: 0.9053
+Train-epoch 18. Iteration 00045, Avg-Loss: 0.2126, Accuracy: 0.9911
+Validation-epoch 18. Iteration 00019, Avg-Loss: 0.3736, Accuracy: 0.8921
+Train-epoch 19. Iteration 00045, Avg-Loss: 0.1960, Accuracy: 0.9867
+Validation-epoch 19. Iteration 00019, Avg-Loss: 0.3734, Accuracy: 0.9132
+Train-epoch 20. Iteration 00045, Avg-Loss: 0.1896, Accuracy: 0.9911
+Validation-epoch 20. Iteration 00019, Avg-Loss: 0.3633, Accuracy: 0.9000
+Train-epoch 21. Iteration 00045, Avg-Loss: 0.1772, Accuracy: 0.9911
+Validation-epoch 21. Iteration 00019, Avg-Loss: 0.3443, Accuracy: 0.9105
+Train-epoch 22. Iteration 00045, Avg-Loss: 0.1602, Accuracy: 0.9922
+Validation-epoch 22. Iteration 00019, Avg-Loss: 0.3197, Accuracy: 0.9211
+Train-epoch 23. Iteration 00045, Avg-Loss: 0.1579, Accuracy: 0.9933
+Validation-epoch 23. Iteration 00019, Avg-Loss: 0.3384, Accuracy: 0.9184
+Train-epoch 24. Iteration 00045, Avg-Loss: 0.1468, Accuracy: 0.9933
+Validation-epoch 24. Iteration 00019, Avg-Loss: 0.3552, Accuracy: 0.9132
+2788.166796684265
