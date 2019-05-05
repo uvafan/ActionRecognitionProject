@@ -5,7 +5,7 @@ def main():
     val_losses = []; val_accuracies=[]
     train_losses = []; train_accuracies=[]
     fin = sys.argv[1]
-    epochs = 15
+    epochs = 25
     if len(sys.argv) > 2:
         epochs = int(sys.argv[2])
     train_loss = -1
